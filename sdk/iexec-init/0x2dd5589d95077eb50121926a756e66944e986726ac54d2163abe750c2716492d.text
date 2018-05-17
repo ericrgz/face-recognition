@@ -1,5 +1,0 @@
-e76881285bd6: Waiting
-44b19563b8cc: Waiting
-d7c931ee8915: Waiting
-78540a864fdf: Waiting
-docker: Error response from daemon: OCI runtime create failed: container_linux.go:348: starting container process caused "exec: \"cli\": executable file not found in $PATH": unknown.
